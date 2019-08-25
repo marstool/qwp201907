@@ -6,6 +6,51 @@ weight = 20
 
 
 
+* [  20190824_EWk6_PzbHzQ 平论第四季LIVE | 中国商务部强势回应美国，不要误判形势！中国滞胀时代已经到来，秦伟平七大危机，大萧条、恶性通胀还有多远？2019-08-24  ]({{< relref "20190824_EWk6_PzbHzQ.info_dir" >}})
+
+
+* [  20190823_YseRsvoYIfE 平论第四季LIVE | 中美贸易战火力全开，中国宣布750亿美元加税反制，川普敦促美联储降息，大决战快到了！2019-08-23  ]({{< relref "20190823_YseRsvoYIfE.info_dir" >}})
+
+
+* [  20190823_KADicRmFbEw 平论第四季LIVE | 中美贸易战6850亿美元全面开火，习近平何时亮出秘密武器？猪肉凭票供应重现江湖！2019-08-23  ]({{< relref "20190823_KADicRmFbEw.info_dir" >}})
+
+
+* [  20190823_h69GJsi2arI 平论第四季Breaking | 美股暴跌，川普彻底被中国加税激怒！2500亿美元加税至30%！9月1日3000亿加税幅度增加到15%！2019-08-23  ]({{< relref "20190823_h69GJsi2arI.info_dir" >}})
+
+
+* [  20190822_z9uz4m_BCFY Weiping Show | Interview with Dr. Phillips, President of Harford Community College 秦伟平专访菲利普斯博士（大学校长）  ]({{< relref "20190822_z9uz4m_BCFY.info_dir" >}})
+
+
+* [  20190821_epQIofxSpRY 平论第四季LIVE | 中共70周年国庆大寿，习近平会有什么大动作？2019-8-21  ]({{< relref "20190821_epQIofxSpRY.info_dir" >}})
+
+
+* [  20190819_dn7l3WRlHh4 ‪平论第四季LIVE | 北戴河会议结束，深圳社会主义示范区出炉，叶公好龙还是凤凰涅槃？‬2019-08-19  ]({{< relref "20190819_dn7l3WRlHh4.info_dir" >}})
+
+
+* [  20190818_9Yufxd5N02A 平论第四季LIVE | 818声援香港，美国白宫现场直播 2019-08-18  ]({{< relref "20190818_9Yufxd5N02A.info_dir" >}})
+
+
+* [  20190816_GuiuC6uXYYU 平论第四季LIVE | 达赖喇嘛呼吁对话解决香港危机，李嘉诚登报“黄台之瓜，何堪再摘”到底何意？2019-08-16  ]({{< relref "20190816_GuiuC6uXYYU.info_dir" >}})
+
+
+* [  20190815_NhWWZpK3EpI 平论第四季LIVE | 川普建议习近平亲自与抗议者谈判太天真，一国两制还能存活多久？香港可能沦为中国直辖市？2019-08-15  ]({{< relref "20190815_NhWWZpK3EpI.info_dir" >}})
+
+
+* [  20190814_KtWNTSxJfBQ 平论第四季LIVE | 美国务院发布香港旅行警告⚠️，秦伟平因为挺香港反送中遭遇死亡威胁 2019-08-14  ]({{< relref "20190814_KtWNTSxJfBQ.info_dir" >}})
+
+
+* [  20190813_zYOCp52UC3k 平论第四季LIVE | 中共陈兵深圳边境武力威胁，香港机场瘫痪！川普为何松口推迟至12月15日加税？2019-08-13  ]({{< relref "20190813_zYOCp52UC3k.info_dir" >}})
+
+
+* [  20190812_e0mVFd5MUB0 平论HOT | 一叶知秋，上海证大突然裁员数千人；香港局势再升级，北戴河可能决议动手！2019-08-12  ]({{< relref "20190812_e0mVFd5MUB0.info_dir" >}})
+
+
+* [  20190811_N8O7BWAItQ8 Weiping Show | Atlantic Ocean & Atlantic City  ]({{< relref "20190811_N8O7BWAItQ8.info_dir" >}})
+
+
+* [  20190810_O_I0y5KtWFU 平论第四季LIVE | 百年沧桑一滴泪，巫宁坤先生坎坷人生给当下海内外华人的重要启示 2019-08-10  ]({{< relref "20190810_O_I0y5KtWFU.info_dir" >}})
+
+
 * [  20190809_FC5jluVQyBQ 平论第四季LIVE | 中国统计局公布CPI，猪肉上涨27%，鲜果上涨39%，川普宣称9月谈判可能取消，雪上加霜迎接吃草新时代！2019-08-09  ]({{< relref "20190809_FC5jluVQyBQ.info_dir" >}})
 
 
