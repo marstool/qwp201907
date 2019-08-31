@@ -38,6 +38,10 @@ gs:
 	nice -n 19 git status
 gc:
 	nice -n 19 git commit -a
+
+gcXmmm:=$(shell (LC_ALL=C date +"%Y%m%d_%H%M%p" ; cat /etc/timezone )|tr "/\r\n-" _)
+gcX:
+	nice -n 19 git commit -m $(gcXmmm)
 	
 
 gd :
@@ -84,7 +88,7 @@ regen:
 	@[ -d scripts.Hugo/themes ] || ( echo "why_no_34 dir <scripts.Hugo/themes> exist ?" ; exit 34 )
 	@[ -f scripts.Hugo/themes/hugo-theme-docdock/theme.toml ] || ( echo \
 	     "why_no_36 file <scripts.Hugo/themes/hugo-theme-docdock/theme.toml> exist ?" ; exit 36 )
-	cd scripts.Hugo/themes/ && git pull
+	(test -f disable_themes_pull && (echo;echo disable_themes_pull;echo;echo))|| ( cd scripts.Hugo/themes/ && git pull )
 	@[ -d docs ] || mkdir docs
 	@[ -L public ] || ln -s docs/ public
 	@[ -L scripts.Hugo/public ] || ln -s ../public/ scripts.Hugo/
